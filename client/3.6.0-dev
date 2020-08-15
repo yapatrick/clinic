@@ -1,0 +1,7 @@
++ redux-thunk@2.3.0
++ tsutils@3.17.1
++ bootstrap@4.5.0
++ typescript@3.9.6
+updated 4 packages and audited 1651 packages in 35.073s
+found 1 low severity vulnerability
+  run `npm audit fix` to fix them, or `npm audit` for details

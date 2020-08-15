@@ -1,0 +1,5 @@
++ jquery@1.9.1
++ history@5.0.0
+added 1 package from 1 contributor, updated 1 package and audited 1654 packages in 35.734s
+found 4 vulnerabilities (1 low, 2 moderate, 1 high)
+  run `npm audit fix` to fix them, or `npm audit` for details
